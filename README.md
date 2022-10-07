@@ -1,8 +1,8 @@
 ### Hi there, my name is Nirmalya Ghosh👋
 
 - 📚 I am currently pursuing Masters in Computer Science @ Seattle University
-- 🔭 I’m currently working on developing my portfolio website
-- 🌱 I’m currently learning DevOps and mobile development
+- 🌱 I’m currently learning Computer Graphics using OpenGL and Distributed Systems
+- 🔭 I’m currently looking for Summer 2023 Software Engineering Internships
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started coding at the age of 12!
 - 📫 How to reach me:
